@@ -1,0 +1,23 @@
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Large Raw Data File (GitHub 100MB Limit Issue)
+data/raw/vehicles.csv
+
+# OS & System Junk
+.DS_Store
+Thumbs.db
+
+# Power BI Temporary Files
+~$*.pbix
+
+# VS Code Folder (Optional)
+.vscode/
